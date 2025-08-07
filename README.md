@@ -1,4 +1,4 @@
-GUI Calculator using Python & Tkinter
+# GUI Calculator using Python & Tkinter
 
 # Description:
 
@@ -18,7 +18,7 @@ This project helped me strengthen my understanding of:
 
 5. GUI programming using Tkinter
 
- I followed the "Bro Code" YouTube tutorial to guide me through the creation of this project. 
+ I followed the "Bro Code" YouTube tutorial to guide me through creating this project. 
  His clear and beginner-friendly explanations helped me understand each step of the way.
 
 # Features
@@ -30,3 +30,5 @@ This project helped me strengthen my understanding of:
 3. Supports: +, -, ×, ÷
 
 4. Error handling for invalid expressions
+
+It was fun building a project alone, and now it provides me with the confidence to build many more different projects.
